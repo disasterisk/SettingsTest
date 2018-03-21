@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name="conversions">
+        <item>Fahrenheit to celsius</item>
+        <item>Celsius to fahrenheit</item>
+    </string-array>
+    <string-array name="conversionV">
+        <item>f2c</item>
+        <item>c2f</item>
+    </string-array>
+</resources>
